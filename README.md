@@ -7,8 +7,6 @@
   I'm a seasoned mobile developer with a passion for crafting robust mobile applications and exploring cutting-edge technologies in AR/XR. Check out my work below!
 </p>
 
-
-
 ## 🛠 Main Technologies
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Obj--C-000000?style=flat-square&logo=objective-c&logoColor=white)
@@ -42,6 +40,8 @@
 ![BLE](https://img.shields.io/badge/BLE-0071C5?style=flat-square&logo=bluetooth&logoColor=white)
 ![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-2560E0?style=flat-square&logo=azure-pipelines&logoColor=white)
 
+# 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=kharezga&theme=dark&hide_border=true)<br/>
 
 # Greetings, I'm Kacper! 👨‍💻
 As a seasoned Software Engineer, the quest for innovation and technological excellence propels me forward. My odyssey commenced with a Formula SAE racing team, where precision and performance became my mantra. 🏎️
